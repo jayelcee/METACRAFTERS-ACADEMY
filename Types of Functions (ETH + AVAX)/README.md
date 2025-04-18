@@ -10,7 +10,9 @@ The **StakeToken** contract provides a simple implementation of the ERC20 token 
 
 - **Minting**: Only the contract owner can mint new tokens to any address.  
 - **Burning**: Any token holder can burn (destroy) their tokens to reduce the total supply.  
-- **Transferring**: Token holders can transfer tokens to other addresses.  
+- **Transferring**: Token holders can transfer tokens to other addresses.
+
+Video Demo: https://www.loom.com/share/8acdcbfb5936438d8d2da1f9d7682d4f
 
 ## Getting Started  
 
