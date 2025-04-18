@@ -6,6 +6,8 @@ This Solidity contract is a simple demonstration of how to create, mint, and bur
 
 This project allows the creation of a custom token on the Ethereum blockchain, with basic functionalities such as minting and burning tokens. The contract stores the token's name, symbol, and total supply as public variables. It also maintains a mapping of addresses to their token balances. Users can increase the total supply by minting tokens or decrease the total supply by burning them. The burn function ensures that tokens can only be destroyed if the user has a sufficient balance.
 
+Video Demo: https://www.loom.com/share/44a043f323964fee8ea3e2b059517f0c
+
 ## Getting Started
 
 ### Installing
