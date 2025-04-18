@@ -14,6 +14,8 @@ The **FundChain** contract enables users to pledge funds toward learning new ski
 - **Community Fund**: Unclaimed funds are added to a community fund for broader benefit.  
 - **Controlled Withdrawals**: Only the designated community leader can withdraw the community fund.  
 
+Video Demo: https://www.loom.com/share/d4704bca531e4f588328ad40b21a0c69
+
 ## Getting Started  
 
 ### Installation  
